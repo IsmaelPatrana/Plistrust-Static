@@ -24,6 +24,9 @@ export const CONFIG = {
     {
       id: 'vimeus',
       nombre: 'Vimeus',
+      // Vimeus responde CORS con status real: pre-check para evitar pantalla negra
+      // cuando el título no está en su catálogo (ej. 404).
+      precheck: true,
       url: (type, id, se = 1, ep = 1) => {
         const params = new URLSearchParams({ tmdb: String(id), view_key: VIMEUS_VIEW_KEY })
         if (type === 'tv') {

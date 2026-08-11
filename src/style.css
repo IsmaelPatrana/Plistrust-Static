@@ -442,6 +442,21 @@ main { padding: 20px; max-width: 1400px; margin: 0 auto; }
   font-size: 1.4rem;
 }
 
+.player-error {
+  position: absolute;
+  inset: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 24px;
+  background: #000;
+  color: var(--text);
+  border-radius: 10px;
+  font-size: 1.05rem;
+}
+
 body.modal-open { overflow: hidden; }
 
 /* ---------- Móvil ---------- */
