@@ -1,0 +1,259 @@
+- generic [ref=f10e2]:
+  - banner [ref=f10e3]:
+    - generic [ref=f10e4]:
+      - heading "🎬 Plistrust" [level=1] [ref=f10e5]
+      - searchbox "Buscar..." [ref=f10e7]
+      - button "Salir" [ref=f10e8] [cursor=pointer]
+    - navigation [ref=f10e9]:
+      - button "Inicio" [ref=f10e10] [cursor=pointer]
+      - button "Películas" [ref=f10e11] [cursor=pointer]
+      - button "Series" [ref=f10e12] [cursor=pointer]
+      - button "Anime" [ref=f10e13] [cursor=pointer]
+      - button "Documentales" [ref=f10e14] [cursor=pointer]
+  - main [ref=f10e15]:
+    - generic [ref=f10e16]:
+      - heading "Películas Populares" [level=2] [ref=f10e17]
+      - generic [ref=f10e18]:
+        - article [ref=f10e19] [cursor=pointer]:
+          - 'img "Spider-Man: Brand New Day" [ref=f10e20]'
+          - button "♡" [ref=f10e21]
+          - generic [ref=f10e22]:
+            - 'heading "Spider-Man: Brand New Day" [level=3] [ref=f10e23]'
+            - text: 2026 · ⭐ 7.9
+        - article [ref=f10e24] [cursor=pointer]:
+          - img "La Odisea" [ref=f10e25]
+          - button "♡" [ref=f10e26]
+          - generic [ref=f10e27]:
+            - heading "La Odisea" [level=3] [ref=f10e28]
+            - text: 2026 · ⭐ 8.0
+        - article [ref=f10e29] [cursor=pointer]:
+          - 'img "Spider-Man: No Way Home" [ref=f10e30]'
+          - button "♡" [ref=f10e31]
+          - generic [ref=f10e32]:
+            - 'heading "Spider-Man: No Way Home" [level=3] [ref=f10e33]'
+            - text: 2021 · ⭐ 7.9
+        - article [ref=f10e34] [cursor=pointer]:
+          - img "La última casa" [ref=f10e35]
+          - button "♡" [ref=f10e36]
+          - generic [ref=f10e37]:
+            - heading "La última casa" [level=3] [ref=f10e38]
+            - text: 2026 · ⭐ 6.8
+        - article [ref=f10e39] [cursor=pointer]:
+          - img "Toy Story 5" [ref=f10e40]
+          - button "♡" [ref=f10e41]
+          - generic [ref=f10e42]:
+            - heading "Toy Story 5" [level=3] [ref=f10e43]
+            - text: 2026 · ⭐ 7.4
+        - article [ref=f10e44] [cursor=pointer]:
+          - img "Supergirl" [ref=f10e45]
+          - button "♡" [ref=f10e46]
+          - generic [ref=f10e47]:
+            - heading "Supergirl" [level=3] [ref=f10e48]
+            - text: 2026 · ⭐ 6.8
+        - article [ref=f10e49] [cursor=pointer]:
+          - img "La muerte de Robin Hood" [ref=f10e50]
+          - button "♡" [ref=f10e51]
+          - generic [ref=f10e52]:
+            - heading "La muerte de Robin Hood" [level=3] [ref=f10e53]
+            - text: 2026 · ⭐ 6.4
+        - article [ref=f10e54] [cursor=pointer]:
+          - img "Obsesión" [ref=f10e55]
+          - button "♡" [ref=f10e56]
+          - generic [ref=f10e57]:
+            - heading "Obsesión" [level=3] [ref=f10e58]
+            - text: 2026 · ⭐ 8.2
+        - article [ref=f10e59] [cursor=pointer]:
+          - img "Minions & Monsters" [ref=f10e60]
+          - button "♡" [ref=f10e61]
+          - generic [ref=f10e62]:
+            - heading "Minions & Monsters" [level=3] [ref=f10e63]
+            - text: 2026 · ⭐ 6.3
+        - article [ref=f10e64] [cursor=pointer]:
+          - 'img "Spider-Man: Homecoming" [ref=f10e65]'
+          - button "♡" [ref=f10e66]
+          - generic [ref=f10e67]:
+            - 'heading "Spider-Man: Homecoming" [level=3] [ref=f10e68]'
+            - text: 2017 · ⭐ 7.3
+        - article [ref=f10e69] [cursor=pointer]:
+          - img "El día de la revelación" [ref=f10e70]
+          - button "♡" [ref=f10e71]
+          - generic [ref=f10e72]:
+            - heading "El día de la revelación" [level=3] [ref=f10e73]
+            - text: 2026 · ⭐ 7.4
+        - article [ref=f10e74] [cursor=pointer]:
+          - img "Posesión infernal. En llamas" [ref=f10e75]
+          - button "♡" [ref=f10e76]
+          - generic [ref=f10e77]:
+            - heading "Posesión infernal. En llamas" [level=3] [ref=f10e78]
+            - text: 2026 · ⭐ 7.9
+        - article [ref=f10e79] [cursor=pointer]:
+          - img "La Boca del Diablo" [ref=f10e80]
+          - button "♡" [ref=f10e81]
+          - generic [ref=f10e82]:
+            - heading "La Boca del Diablo" [level=3] [ref=f10e83]
+            - text: 2026 · ⭐ 6.6
+        - article [ref=f10e84] [cursor=pointer]:
+          - img "Zona Cero" [ref=f10e85]
+          - button "♡" [ref=f10e86]
+          - generic [ref=f10e87]:
+            - heading "Zona Cero" [level=3] [ref=f10e88]
+            - text: 2026 · ⭐ 8.1
+        - article [ref=f10e89] [cursor=pointer]:
+          - img "Vaiana" [ref=f10e90]
+          - button "♡" [ref=f10e91]
+          - generic [ref=f10e92]:
+            - heading "Vaiana" [level=3] [ref=f10e93]
+            - text: 2026 · ⭐ 6.0
+        - article [ref=f10e94] [cursor=pointer]:
+          - img "La odisea" [ref=f10e95]
+          - button "♡" [ref=f10e96]
+          - generic [ref=f10e97]:
+            - heading "La odisea" [level=3] [ref=f10e98]
+            - text: 2026 · ⭐ 6.0
+        - article [ref=f10e99] [cursor=pointer]:
+          - img "仙逆剧场版 弑仙之战" [ref=f10e100]
+          - button "♡" [ref=f10e101]
+          - generic [ref=f10e102]:
+            - heading "仙逆剧场版 弑仙之战" [level=3] [ref=f10e103]
+            - text: — · ⭐ 0.0
+        - article [ref=f10e104] [cursor=pointer]:
+          - img "Backrooms" [ref=f10e105]
+          - button "♡" [ref=f10e106]
+          - generic [ref=f10e107]:
+            - heading "Backrooms" [level=3] [ref=f10e108]
+            - text: 2026 · ⭐ 7.1
+        - article [ref=f10e109] [cursor=pointer]:
+          - 'img "La leyenda de Aang: El último Airbender" [ref=f10e110]'
+          - button "♡" [ref=f10e111]
+          - generic [ref=f10e112]:
+            - 'heading "La leyenda de Aang: El último Airbender" [level=3] [ref=f10e113]'
+            - text: 2026 · ⭐ 9.3
+        - article [ref=f10e114] [cursor=pointer]:
+          - img "He-Man y los Masters del Universo" [ref=f10e115]
+          - button "♡" [ref=f10e116]
+          - generic [ref=f10e117]:
+            - heading "He-Man y los Masters del Universo" [level=3] [ref=f10e118]
+            - text: 2026 · ⭐ 7.2
+    - generic [ref=f10e119]:
+      - heading "Series Populares" [level=2] [ref=f10e120]
+      - generic [ref=f10e121]:
+        - article [ref=f10e122] [cursor=pointer]:
+          - img "La casa del dragón" [ref=f10e123]
+          - button "♡" [ref=f10e124]
+          - generic [ref=f10e125]:
+            - heading "La casa del dragón" [level=3] [ref=f10e126]
+            - text: 2022 · ⭐ 8.4
+        - article [ref=f10e127] [cursor=pointer]:
+          - img "Paradise Hotel" [ref=f10e128]
+          - button "♡" [ref=f10e129]
+          - generic [ref=f10e130]:
+            - heading "Paradise Hotel" [level=3] [ref=f10e131]
+            - text: 2005 · ⭐ 5.6
+        - article [ref=f10e132] [cursor=pointer]:
+          - img "Paradise Hotel" [ref=f10e133]
+          - button "♡" [ref=f10e134]
+          - generic [ref=f10e135]:
+            - heading "Paradise Hotel" [level=3] [ref=f10e136]
+            - text: 2005 · ⭐ 5.0
+        - article [ref=f10e137] [cursor=pointer]:
+          - 'img "Operaciones Especiales: Lioness" [ref=f10e138]'
+          - button "♡" [ref=f10e139]
+          - generic [ref=f10e140]:
+            - 'heading "Operaciones Especiales: Lioness" [level=3] [ref=f10e141]'
+            - text: 2023 · ⭐ 8.0
+        - article [ref=f10e142] [cursor=pointer]:
+          - img "Paradise Hotel" [ref=f10e143]
+          - button "♡" [ref=f10e144]
+          - generic [ref=f10e145]:
+            - heading "Paradise Hotel" [level=3] [ref=f10e146]
+            - text: 2009 · ⭐ 5.7
+        - article [ref=f10e147] [cursor=pointer]:
+          - img "El mentalista" [ref=f10e148]
+          - button "♡" [ref=f10e149]
+          - generic [ref=f10e150]:
+            - heading "El mentalista" [level=3] [ref=f10e151]
+            - text: 2008 · ⭐ 8.4
+        - article [ref=f10e152] [cursor=pointer]:
+          - img "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～" [ref=f10e153]
+          - button "♡" [ref=f10e154]
+          - generic [ref=f10e155]:
+            - heading "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～" [level=3] [ref=f10e156]
+            - text: 2023 · ⭐ 6.2
+        - article [ref=f10e157] [cursor=pointer]:
+          - 'img "Ley y orden: Unidad de Víctimas Especiales" [ref=f10e158]'
+          - button "♡" [ref=f10e159]
+          - generic [ref=f10e160]:
+            - 'heading "Ley y orden: Unidad de Víctimas Especiales" [level=3] [ref=f10e161]'
+            - text: 1999 · ⭐ 8.0
+        - article [ref=f10e162] [cursor=pointer]:
+          - img "Anatomía de Grey" [ref=f10e163]
+          - button "♡" [ref=f10e164]
+          - generic [ref=f10e165]:
+            - heading "Anatomía de Grey" [level=3] [ref=f10e166]
+            - text: 2005 · ⭐ 8.2
+        - article [ref=f10e167] [cursor=pointer]:
+          - img "The Rookie" [ref=f10e168]
+          - button "♡" [ref=f10e169]
+          - generic [ref=f10e170]:
+            - heading "The Rookie" [level=3] [ref=f10e171]
+            - text: 2018 · ⭐ 8.5
+        - article [ref=f10e172] [cursor=pointer]:
+          - img "Acaramelados" [ref=f10e173]
+          - button "♡" [ref=f10e174]
+          - generic [ref=f10e175]:
+            - heading "Acaramelados" [level=3] [ref=f10e176]
+            - text: 2026 · ⭐ 7.8
+        - article [ref=f10e177] [cursor=pointer]:
+          - 'img "Prodigiosa: Las aventuras de Ladybug" [ref=f10e178]'
+          - button "♡" [ref=f10e179]
+          - generic [ref=f10e180]:
+            - 'heading "Prodigiosa: Las aventuras de Ladybug" [level=3] [ref=f10e181]'
+            - text: 2015 · ⭐ 8.1
+        - article [ref=f10e182] [cursor=pointer]:
+          - img "Secret Story" [ref=f10e183]
+          - button "♡" [ref=f10e184]
+          - generic [ref=f10e185]:
+            - heading "Secret Story" [level=3] [ref=f10e186]
+            - text: 2007 · ⭐ 4.5
+        - article [ref=f10e187] [cursor=pointer]:
+          - img "Silo" [ref=f10e188]
+          - button "♡" [ref=f10e189]
+          - generic [ref=f10e190]:
+            - heading "Silo" [level=3] [ref=f10e191]
+            - text: 2023 · ⭐ 8.2
+        - article [ref=f10e192] [cursor=pointer]:
+          - img "Hockey Psychology" [ref=f10e193]
+          - button "♡" [ref=f10e194]
+          - generic [ref=f10e195]:
+            - heading "Hockey Psychology" [level=3] [ref=f10e196]
+            - text: 2021 · ⭐ 0.0
+        - article [ref=f10e197] [cursor=pointer]:
+          - img "Ley y orden" [ref=f10e198]
+          - button "♡" [ref=f10e199]
+          - generic [ref=f10e200]:
+            - heading "Ley y orden" [level=3] [ref=f10e201]
+            - text: 1990 · ⭐ 7.3
+        - article [ref=f10e202] [cursor=pointer]:
+          - img "Los Simpson" [ref=f10e203]
+          - button "♡" [ref=f10e204]
+          - generic [ref=f10e205]:
+            - heading "Los Simpson" [level=3] [ref=f10e206]
+            - text: 1989 · ⭐ 8.0
+        - article [ref=f10e207] [cursor=pointer]:
+          - 'img "Navy: Investigación criminal" [ref=f10e208]'
+          - button "♡" [ref=f10e209]
+          - generic [ref=f10e210]:
+            - 'heading "Navy: Investigación criminal" [level=3] [ref=f10e211]'
+            - text: 2003 · ⭐ 7.6
+        - article [ref=f10e212] [cursor=pointer]:
+          - img "Sobrenatural" [ref=f10e213]
+          - button "♡" [ref=f10e214]
+          - generic [ref=f10e215]:
+            - heading "Sobrenatural" [level=3] [ref=f10e216]
+            - text: 2005 · ⭐ 8.3
+        - article [ref=f10e217] [cursor=pointer]:
+          - img "Rick y Morty" [ref=f10e218]
+          - button "♡" [ref=f10e219]
+          - generic [ref=f10e220]:
+            - heading "Rick y Morty" [level=3] [ref=f10e221]
+            - text: 2013 · ⭐ 8.7

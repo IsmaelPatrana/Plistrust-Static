@@ -1,0 +1,5 @@
+[      71ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://localhost:5173/:45
+[     137ms] [VERBOSE] [DOM] Password forms should have (optionally hidden) username fields for accessibility: (More info: https://goo.gl/9p2vKq) %o @ http://localhost:5173/:0
+[   32064ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://vimeus.com/e/movie?tmdb=969681&view_key=tCqVYbkM75fGmmulXyEYvMFCpE8J3BXl3SaXY3bWErE:0
+[  147512ms] [LOG] v2 @ https://vimeus.com/e/movie?tmdb=278&view_key=tCqVYbkM75fGmmulXyEYvMFCpE8J3BXl3SaXY3bWErE:18
+[  260757ms] [LOG] v2 @ https://vimeus.com/e/serie?tmdb=94997&view_key=tCqVYbkM75fGmmulXyEYvMFCpE8J3BXl3SaXY3bWErE&se=1&ep=1:18

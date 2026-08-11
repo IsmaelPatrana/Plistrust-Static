@@ -1,0 +1,10 @@
+[      50ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://localhost:5173/:45
+[     196ms] [VERBOSE] [DOM] Password forms should have (optionally hidden) username fields for accessibility: (More info: https://goo.gl/9p2vKq) %o @ http://localhost:5173/:0
+[  387873ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://localhost:5173/:45
+[  387986ms] [VERBOSE] [DOM] Password forms should have (optionally hidden) username fields for accessibility: (More info: https://goo.gl/9p2vKq) %o @ http://localhost:5173/:0
+[  403510ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://localhost:5173/:45
+[  403588ms] [VERBOSE] [DOM] Password forms should have (optionally hidden) username fields for accessibility: (More info: https://goo.gl/9p2vKq) %o @ http://localhost:5173/:0
+[  411672ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://localhost:5173/:45
+[  411746ms] [VERBOSE] [DOM] Password forms should have (optionally hidden) username fields for accessibility: (More info: https://goo.gl/9p2vKq) %o @ http://localhost:5173/:0
+[  426547ms] [WARNING] Allow attribute will take precedence over 'allowfullscreen'. @ http://localhost:5173/:45
+[  426609ms] [VERBOSE] [DOM] Password forms should have (optionally hidden) username fields for accessibility: (More info: https://goo.gl/9p2vKq) %o @ http://localhost:5173/:0

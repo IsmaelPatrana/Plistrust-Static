@@ -10,10 +10,31 @@ export const CONFIG = {
   // Días que dura la sesión sin volver a pedir contraseña
   SESSION_DAYS: 7,
 
-  // Proveedores de reproducción. {id} se sustituye por el id de TMDB.
-  // AJUSTA la URL al formato real de cada proveedor (consulta su web).
+  // Proveedores de reproducción (patrones reales de embeds).
+  // url(type, id, season, episode); season/episode solo aplican a series.
   PROVIDERS: [
-    { id: 'vimeus', nombre: 'Vimeus', url: (id) => `https://vimeus.net/ver/${id}` },
-    { id: 'unlimplay', nombre: 'UnlimPlay', url: (id) => `https://unlimplay.com/ver/${id}` },
+    {
+      id: 'unlimplay',
+      nombre: 'UnlimPlay',
+      url: (type, id, se = 1, ep = 1) =>
+        type === 'tv'
+          ? `https://unlimplay.com/f/embed/tv/${id}/${se}/${ep}`
+          : `https://unlimplay.com/f/embed/movie/${id}`,
+    },
+    {
+      id: 'vimeus',
+      nombre: 'Vimeus',
+      url: (type, id, se = 1, ep = 1) => {
+        const params = new URLSearchParams({ tmdb: String(id), view_key: VIMEUS_VIEW_KEY })
+        if (type === 'tv') {
+          params.set('se', String(se))
+          params.set('ep', String(ep))
+        }
+        return type === 'tv' ? `https://vimeus.com/e/serie?${params}` : `https://vimeus.com/e/movie?${params}`
+      },
+    },
   ],
 }
+
+// View key de Vimeus para los embeds
+const VIMEUS_VIEW_KEY = 'tCqVYbkM75fGmmulXyEYvMFCpE8J3BXl3SaXY3bWErE'

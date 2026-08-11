@@ -1,0 +1,52 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - heading "🎬 Plistrust" [level=1] [ref=e5]
+        - searchbox "Buscar..." [ref=e7]
+        - button "Salir" [ref=e8] [cursor=pointer]
+      - navigation [ref=e9]:
+        - button "Inicio" [ref=e10] [cursor=pointer]
+        - button "Películas" [ref=e11] [cursor=pointer]
+        - button "Series" [ref=e12] [cursor=pointer]
+        - button "Anime" [ref=e13] [cursor=pointer]
+        - button "Documentales" [ref=e14] [cursor=pointer]
+    - main [ref=e15]:
+      - generic [ref=e1260]:
+        - button "← Volver" [ref=e1261] [cursor=pointer]
+        - generic [ref=e1262]:
+          - img "La casa del dragón" [ref=e1263]
+          - generic [ref=e1264]:
+            - heading "La casa del dragón (2022)" [level=2] [ref=e1265]
+            - paragraph [ref=e1266]: ⭐ 8.4 · — min · Sci-Fi & Fantasy, Drama, Action & Adventure
+            - paragraph [ref=e1267]: Basada en el libro 'Fuego y Sangre' de George R.R. Martin. La serie se centra en la casa Targaryen, trescientos años antes de los eventos vistos en 'Juego de Tronos'.
+            - generic [ref=e1268]:
+              - generic [ref=e1269]:
+                - text: Temporada
+                - combobox "Temporada" [ref=e1270]:
+                  - option "Temporada 1"
+                  - option "Temporada 2" [selected]
+                  - option "Temporada 3"
+              - generic [ref=e1271]:
+                - text: Episodio
+                - combobox "Episodio" [ref=e1272]:
+                  - option "1. Hijo por hijo"
+                  - option "2. Rhaenyra la Cruel"
+                  - option "3. El molino ardiente"
+                  - option "4. El Dragón Rojo y el Dorado"
+                  - option "5. Regente" [selected]
+                  - option "6. El populacho"
+                  - option "7. La cosecha roja"
+                  - option "8. La mujer que debía reinar"
+            - generic [ref=e1273]:
+              - generic [ref=e1274]:
+                - button "▶ Ver en Vimeus" [active] [ref=e1280] [cursor=pointer]
+                - button "▶ Ver en UnlimPlay" [ref=e1281] [cursor=pointer]
+              - button "♡ Favorito" [ref=e1277] [cursor=pointer]
+  - generic [ref=e1283]:
+    - button "Cerrar" [ref=e1284] [cursor=pointer]: ✕
+    - iframe [ref=e1285]:
+      - generic [ref=f1e2]:
+        - generic:
+          - generic:
+            - heading "VIMEUS" [level=1]

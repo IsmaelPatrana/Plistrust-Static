@@ -1,0 +1,5 @@
+- generic [ref=e3]:
+  - heading "🎬 Plistrust" [level=1] [ref=e4]
+  - paragraph [ref=e5]: Introduce la contraseña para entrar
+  - textbox "Contraseña" [active] [ref=e6]
+  - button "Entrar" [ref=e7] [cursor=pointer]

@@ -20,11 +20,20 @@
 
   <div id="app" class="hidden">
     <header class="header">
-      <h1 class="logo">🎬 Plistrust</h1>
-      <form id="search-form" class="search">
-        <input type="search" id="search-input" placeholder="Buscar películas…" />
-      </form>
-      <button id="logout-btn" class="ghost">Salir</button>
+      <div class="header-top">
+        <h1 class="logo">🎬 Plistrust</h1>
+        <form id="search-form" class="search">
+          <input type="search" id="search-input" placeholder="Buscar..." />
+        </form>
+        <button id="logout-btn" class="ghost">Salir</button>
+      </div>
+      <nav class="top-nav">
+        <button class="nav-btn active" data-view="home">Inicio</button>
+        <button class="nav-btn" data-view="movies">Películas</button>
+        <button class="nav-btn" data-view="series">Series</button>
+        <button class="nav-btn" data-view="anime">Anime</button>
+        <button class="nav-btn" data-view="docs">Documentales</button>
+      </nav>
     </header>
     <main id="main"></main>
   </div>

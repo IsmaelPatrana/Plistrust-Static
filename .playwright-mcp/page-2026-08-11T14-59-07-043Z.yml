@@ -1,0 +1,1243 @@
+- generic [ref=e8]:
+  - banner [ref=e9]:
+    - generic [ref=e10]:
+      - heading "🎬 Plistrust" [level=1] [ref=e11]
+      - searchbox "Buscar..." [ref=e13]
+      - button "Salir" [ref=e14] [cursor=pointer]
+    - navigation [ref=e15]:
+      - button "Inicio" [ref=e16] [cursor=pointer]
+      - button "Películas" [ref=e17] [cursor=pointer]
+      - button "Series" [active] [ref=e18] [cursor=pointer]
+      - button "Anime" [ref=e19] [cursor=pointer]
+      - button "Documentales" [ref=e20] [cursor=pointer]
+  - main [ref=e21]:
+    - generic [ref=e1773]:
+      - heading "Populares" [level=2] [ref=e1774]
+      - generic [ref=e1775]:
+        - article [ref=e1776] [cursor=pointer]:
+          - img "La casa del dragón" [ref=e1777]
+          - button "♡" [ref=e1778]
+          - generic [ref=e1779]:
+            - heading "La casa del dragón" [level=3] [ref=e1780]
+            - text: 2022 · ⭐ 8.4
+        - article [ref=e1781] [cursor=pointer]:
+          - img "Paradise Hotel" [ref=e1782]
+          - button "♡" [ref=e1783]
+          - generic [ref=e1784]:
+            - heading "Paradise Hotel" [level=3] [ref=e1785]
+            - text: 2005 · ⭐ 5.6
+        - article [ref=e1786] [cursor=pointer]:
+          - img "Paradise Hotel" [ref=e1787]
+          - button "♡" [ref=e1788]
+          - generic [ref=e1789]:
+            - heading "Paradise Hotel" [level=3] [ref=e1790]
+            - text: 2005 · ⭐ 5.0
+        - article [ref=e1791] [cursor=pointer]:
+          - 'img "Operaciones Especiales: Lioness" [ref=e1792]'
+          - button "♡" [ref=e1793]
+          - generic [ref=e1794]:
+            - 'heading "Operaciones Especiales: Lioness" [level=3] [ref=e1795]'
+            - text: 2023 · ⭐ 8.0
+        - article [ref=e1796] [cursor=pointer]:
+          - img "Paradise Hotel" [ref=e1797]
+          - button "♡" [ref=e1798]
+          - generic [ref=e1799]:
+            - heading "Paradise Hotel" [level=3] [ref=e1800]
+            - text: 2009 · ⭐ 5.7
+        - article [ref=e1801] [cursor=pointer]:
+          - img "El mentalista" [ref=e1802]
+          - button "♡" [ref=e1803]
+          - generic [ref=e1804]:
+            - heading "El mentalista" [level=3] [ref=e1805]
+            - text: 2008 · ⭐ 8.4
+        - article [ref=e1806] [cursor=pointer]:
+          - img "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～" [ref=e1807]
+          - button "♡" [ref=e1808]
+          - generic [ref=e1809]:
+            - heading "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～" [level=3] [ref=e1810]
+            - text: 2023 · ⭐ 6.2
+        - article [ref=e1811] [cursor=pointer]:
+          - 'img "Ley y orden: Unidad de Víctimas Especiales" [ref=e1812]'
+          - button "♡" [ref=e1813]
+          - generic [ref=e1814]:
+            - 'heading "Ley y orden: Unidad de Víctimas Especiales" [level=3] [ref=e1815]'
+            - text: 1999 · ⭐ 8.0
+        - article [ref=e1816] [cursor=pointer]:
+          - img "Anatomía de Grey" [ref=e1817]
+          - button "♡" [ref=e1818]
+          - generic [ref=e1819]:
+            - heading "Anatomía de Grey" [level=3] [ref=e1820]
+            - text: 2005 · ⭐ 8.2
+        - article [ref=e1821] [cursor=pointer]:
+          - img "The Rookie" [ref=e1822]
+          - button "♡" [ref=e1823]
+          - generic [ref=e1824]:
+            - heading "The Rookie" [level=3] [ref=e1825]
+            - text: 2018 · ⭐ 8.5
+        - article [ref=e1826] [cursor=pointer]:
+          - img "Acaramelados" [ref=e1827]
+          - button "♡" [ref=e1828]
+          - generic [ref=e1829]:
+            - heading "Acaramelados" [level=3] [ref=e1830]
+            - text: 2026 · ⭐ 7.8
+        - article [ref=e1831] [cursor=pointer]:
+          - 'img "Prodigiosa: Las aventuras de Ladybug" [ref=e1832]'
+          - button "♡" [ref=e1833]
+          - generic [ref=e1834]:
+            - 'heading "Prodigiosa: Las aventuras de Ladybug" [level=3] [ref=e1835]'
+            - text: 2015 · ⭐ 8.1
+        - article [ref=e1836] [cursor=pointer]:
+          - img "Secret Story" [ref=e1837]
+          - button "♡" [ref=e1838]
+          - generic [ref=e1839]:
+            - heading "Secret Story" [level=3] [ref=e1840]
+            - text: 2007 · ⭐ 4.5
+        - article [ref=e1841] [cursor=pointer]:
+          - img "Silo" [ref=e1842]
+          - button "♡" [ref=e1843]
+          - generic [ref=e1844]:
+            - heading "Silo" [level=3] [ref=e1845]
+            - text: 2023 · ⭐ 8.2
+        - article [ref=e1846] [cursor=pointer]:
+          - img "Hockey Psychology" [ref=e1847]
+          - button "♡" [ref=e1848]
+          - generic [ref=e1849]:
+            - heading "Hockey Psychology" [level=3] [ref=e1850]
+            - text: 2021 · ⭐ 0.0
+        - article [ref=e1851] [cursor=pointer]:
+          - img "Ley y orden" [ref=e1852]
+          - button "♡" [ref=e1853]
+          - generic [ref=e1854]:
+            - heading "Ley y orden" [level=3] [ref=e1855]
+            - text: 1990 · ⭐ 7.3
+        - article [ref=e1856] [cursor=pointer]:
+          - img "Los Simpson" [ref=e1857]
+          - button "♡" [ref=e1858]
+          - generic [ref=e1859]:
+            - heading "Los Simpson" [level=3] [ref=e1860]
+            - text: 1989 · ⭐ 8.0
+        - article [ref=e1861] [cursor=pointer]:
+          - 'img "Navy: Investigación criminal" [ref=e1862]'
+          - button "♡" [ref=e1863]
+          - generic [ref=e1864]:
+            - 'heading "Navy: Investigación criminal" [level=3] [ref=e1865]'
+            - text: 2003 · ⭐ 7.6
+        - article [ref=e1866] [cursor=pointer]:
+          - img "Sobrenatural" [ref=e1867]
+          - button "♡" [ref=e1868]
+          - generic [ref=e1869]:
+            - heading "Sobrenatural" [level=3] [ref=e1870]
+            - text: 2005 · ⭐ 8.3
+        - article [ref=e1871] [cursor=pointer]:
+          - img "Rick y Morty" [ref=e1872]
+          - button "♡" [ref=e1873]
+          - generic [ref=e1874]:
+            - heading "Rick y Morty" [level=3] [ref=e1875]
+            - text: 2013 · ⭐ 8.7
+    - generic [ref=e1876]:
+      - heading "Mejor valoradas" [level=2] [ref=e1877]
+      - generic [ref=e1878]:
+        - article [ref=e1879] [cursor=pointer]:
+          - img "Así aprenderás" [ref=e1880]
+          - button "♡" [ref=e1881]
+          - generic [ref=e1882]:
+            - heading "Así aprenderás" [level=3] [ref=e1883]
+            - text: 2026 · ⭐ 9.4
+        - article [ref=e1884] [cursor=pointer]:
+          - img "Rancho Dutton" [ref=e1885]
+          - button "♡" [ref=e1886]
+          - generic [ref=e1887]:
+            - heading "Rancho Dutton" [level=3] [ref=e1888]
+            - text: 2026 · ⭐ 9.2
+        - article [ref=e1889] [cursor=pointer]:
+          - img "Breaking Bad" [ref=e1890]
+          - button "♡" [ref=e1891]
+          - generic [ref=e1892]:
+            - heading "Breaking Bad" [level=3] [ref=e1893]
+            - text: 2008 · ⭐ 8.9
+        - article [ref=e1894] [cursor=pointer]:
+          - img "Off Campus" [ref=e1895]
+          - button "♡" [ref=e1896]
+          - generic [ref=e1897]:
+            - heading "Off Campus" [level=3] [ref=e1898]
+            - text: 2026 · ⭐ 8.9
+        - article [ref=e1899] [cursor=pointer]:
+          - img "Los SUPERfrikis" [ref=e1900]
+          - button "♡" [ref=e1901]
+          - generic [ref=e1902]:
+            - heading "Los SUPERfrikis" [level=3] [ref=e1903]
+            - text: 2026 · ⭐ 8.9
+        - article [ref=e1904] [cursor=pointer]:
+          - 'img "Frieren: Tras finalizar el viaje" [ref=e1905]'
+          - button "♡" [ref=e1906]
+          - generic [ref=e1907]:
+            - 'heading "Frieren: Tras finalizar el viaje" [level=3] [ref=e1908]'
+            - text: 2023 · ⭐ 8.8
+        - article [ref=e1909] [cursor=pointer]:
+          - img "The Chosen (Los elegidos)" [ref=e1910]
+          - button "♡" [ref=e1911]
+          - generic [ref=e1912]:
+            - heading "The Chosen (Los elegidos)" [level=3] [ref=e1913]
+            - text: 2019 · ⭐ 8.8
+        - article [ref=e1914] [cursor=pointer]:
+          - 'img "Avatar: La leyenda de Aang" [ref=e1915]'
+          - button "♡" [ref=e1916]
+          - generic [ref=e1917]:
+            - 'heading "Avatar: La leyenda de Aang" [level=3] [ref=e1918]'
+            - text: 2005 · ⭐ 8.8
+        - article [ref=e1919] [cursor=pointer]:
+          - img "Respuesta 1988" [ref=e1920]
+          - button "♡" [ref=e1921]
+          - generic [ref=e1922]:
+            - heading "Respuesta 1988" [level=3] [ref=e1923]
+            - text: 2015 · ⭐ 8.8
+        - article [ref=e1924] [cursor=pointer]:
+          - img "Si la vida te da mandarinas..." [ref=e1925]
+          - button "♡" [ref=e1926]
+          - generic [ref=e1927]:
+            - heading "Si la vida te da mandarinas..." [level=3] [ref=e1928]
+            - text: 2025 · ⭐ 8.8
+        - article [ref=e1929] [cursor=pointer]:
+          - img "Arcane" [ref=e1930]
+          - button "♡" [ref=e1931]
+          - generic [ref=e1932]:
+            - heading "Arcane" [level=3] [ref=e1933]
+            - text: 2021 · ⭐ 8.8
+        - article [ref=e1934] [cursor=pointer]:
+          - img "One Piece" [ref=e1935]
+          - button "♡" [ref=e1936]
+          - generic [ref=e1937]:
+            - heading "One Piece" [level=3] [ref=e1938]
+            - text: 1999 · ⭐ 8.8
+        - article [ref=e1939] [cursor=pointer]:
+          - img "Más que rivales" [ref=e1940]
+          - button "♡" [ref=e1941]
+          - generic [ref=e1942]:
+            - heading "Más que rivales" [level=3] [ref=e1943]
+            - text: 2025 · ⭐ 8.7
+        - article [ref=e1944] [cursor=pointer]:
+          - img "The Pitt" [ref=e1945]
+          - button "♡" [ref=e1946]
+          - generic [ref=e1947]:
+            - heading "The Pitt" [level=3] [ref=e1948]
+            - text: 2025 · ⭐ 8.7
+        - article [ref=e1949] [cursor=pointer]:
+          - img "Chernobyl" [ref=e1950]
+          - button "♡" [ref=e1951]
+          - generic [ref=e1952]:
+            - heading "Chernobyl" [level=3] [ref=e1953]
+            - text: 2019 · ⭐ 8.7
+        - article [ref=e1954] [cursor=pointer]:
+          - 'img "Fullmetal Alchemist: Brotherhood" [ref=e1955]'
+          - button "♡" [ref=e1956]
+          - generic [ref=e1957]:
+            - 'heading "Fullmetal Alchemist: Brotherhood" [level=3] [ref=e1958]'
+            - text: 2009 · ⭐ 8.7
+        - article [ref=e1959] [cursor=pointer]:
+          - img "Better Call Saul" [ref=e1960]
+          - button "♡" [ref=e1961]
+          - generic [ref=e1962]:
+            - heading "Better Call Saul" [level=3] [ref=e1963]
+            - text: 2015 · ⭐ 8.7
+        - article [ref=e1964] [cursor=pointer]:
+          - img "Nadie nos va a extrañar" [ref=e1965]
+          - button "♡" [ref=e1966]
+          - generic [ref=e1967]:
+            - heading "Nadie nos va a extrañar" [level=3] [ref=e1968]
+            - text: 2024 · ⭐ 8.7
+        - article [ref=e1969] [cursor=pointer]:
+          - img "Un héroe débil" [ref=e1970]
+          - button "♡" [ref=e1971]
+          - generic [ref=e1972]:
+            - heading "Un héroe débil" [level=3] [ref=e1973]
+            - text: 2022 · ⭐ 8.7
+        - article [ref=e1974] [cursor=pointer]:
+          - img "X-Men '97" [ref=e1975]
+          - button "♡" [ref=e1976]
+          - generic [ref=e1977]:
+            - heading "X-Men '97" [level=3] [ref=e1978]
+            - text: 2024 · ⭐ 8.7
+    - generic [ref=e1979]:
+      - heading "En emisión" [level=2] [ref=e1980]
+      - generic [ref=e1981]:
+        - article [ref=e1982] [cursor=pointer]:
+          - 'img "Operaciones Especiales: Lioness" [ref=e1983]'
+          - button "♡" [ref=e1984]
+          - generic [ref=e1985]:
+            - 'heading "Operaciones Especiales: Lioness" [level=3] [ref=e1986]'
+            - text: 2023 · ⭐ 8.0
+        - article [ref=e1987] [cursor=pointer]:
+          - img "Secret Story" [ref=e1988]
+          - button "♡" [ref=e1989]
+          - generic [ref=e1990]:
+            - heading "Secret Story" [level=3] [ref=e1991]
+            - text: 2007 · ⭐ 4.5
+        - article [ref=e1992] [cursor=pointer]:
+          - img "Silo" [ref=e1993]
+          - button "♡" [ref=e1994]
+          - generic [ref=e1995]:
+            - heading "Silo" [level=3] [ref=e1996]
+            - text: 2023 · ⭐ 8.2
+        - article [ref=e1997] [cursor=pointer]:
+          - img "Watch What Happens Live with Andy Cohen" [ref=e1998]
+          - button "♡" [ref=e1999]
+          - generic [ref=e2000]:
+            - heading "Watch What Happens Live with Andy Cohen" [level=3] [ref=e2001]
+            - text: 2009 · ⭐ 5.0
+        - article [ref=e2002] [cursor=pointer]:
+          - img "The Tonight Show Starring Jimmy Fallon" [ref=e2003]
+          - button "♡" [ref=e2004]
+          - generic [ref=e2005]:
+            - heading "The Tonight Show Starring Jimmy Fallon" [level=3] [ref=e2006]
+            - text: 2014 · ⭐ 5.8
+        - article [ref=e2007] [cursor=pointer]:
+          - img "Reacher" [ref=e2008]
+          - button "♡" [ref=e2009]
+          - generic [ref=e2010]:
+            - heading "Reacher" [level=3] [ref=e2011]
+            - text: 2022 · ⭐ 8.1
+        - article [ref=e2012] [cursor=pointer]:
+          - img "Gran hermano" [ref=e2013]
+          - button "♡" [ref=e2014]
+          - generic [ref=e2015]:
+            - heading "Gran hermano" [level=3] [ref=e2016]
+            - text: 2001 · ⭐ 4.5
+        - article [ref=e2017] [cursor=pointer]:
+          - img "Ted Lasso" [ref=e2018]
+          - button "♡" [ref=e2019]
+          - generic [ref=e2020]:
+            - heading "Ted Lasso" [level=3] [ref=e2021]
+            - text: 2020 · ⭐ 8.3
+        - article [ref=e2022] [cursor=pointer]:
+          - img "Mushoku Tensei Jobless Reincarnation" [ref=e2023]
+          - button "♡" [ref=e2024]
+          - generic [ref=e2025]:
+            - heading "Mushoku Tensei Jobless Reincarnation" [level=3] [ref=e2026]
+            - text: 2021 · ⭐ 8.5
+        - article [ref=e2027] [cursor=pointer]:
+          - img "脱口秀和Ta的朋友们" [ref=e2028]
+          - button "♡" [ref=e2029]
+          - generic [ref=e2030]:
+            - heading "脱口秀和Ta的朋友们" [level=3] [ref=e2031]
+            - text: 2024 · ⭐ 5.8
+        - article [ref=e2032] [cursor=pointer]:
+          - img "Kamen Rider" [ref=e2033]
+          - button "♡" [ref=e2034]
+          - generic [ref=e2035]:
+            - heading "Kamen Rider" [level=3] [ref=e2036]
+            - text: 1971 · ⭐ 6.4
+        - article [ref=e2037] [cursor=pointer]:
+          - img "Bleach" [ref=e2038]
+          - button "♡" [ref=e2039]
+          - generic [ref=e2040]:
+            - heading "Bleach" [level=3] [ref=e2041]
+            - text: 2004 · ⭐ 8.4
+        - article [ref=e2042] [cursor=pointer]:
+          - img "Futurama" [ref=e2043]
+          - button "♡" [ref=e2044]
+          - generic [ref=e2045]:
+            - heading "Futurama" [level=3] [ref=e2046]
+            - text: 1999 · ⭐ 8.4
+        - article [ref=e2047] [cursor=pointer]:
+          - img "Raw" [ref=e2048]
+          - button "♡" [ref=e2049]
+          - generic [ref=e2050]:
+            - heading "Raw" [level=3] [ref=e2051]
+            - text: 1993 · ⭐ 6.8
+        - article [ref=e2052] [cursor=pointer]:
+          - img "Los Jóvenes Titanes en Acción" [ref=e2053]
+          - button "♡" [ref=e2054]
+          - generic [ref=e2055]:
+            - heading "Los Jóvenes Titanes en Acción" [level=3] [ref=e2056]
+            - text: 2013 · ⭐ 6.4
+        - article [ref=e2057] [cursor=pointer]:
+          - img "Running Man" [ref=e2058]
+          - button "♡" [ref=e2059]
+          - generic [ref=e2060]:
+            - heading "Running Man" [level=3] [ref=e2061]
+            - text: 2010 · ⭐ 8.2
+        - article [ref=e2062] [cursor=pointer]:
+          - img "La Patrulla Canina" [ref=e2063]
+          - button "♡" [ref=e2064]
+          - generic [ref=e2065]:
+            - heading "La Patrulla Canina" [level=3] [ref=e2066]
+            - text: 2013 · ⭐ 7.0
+        - article [ref=e2067] [cursor=pointer]:
+          - img "BBC Proms" [ref=e2068]
+          - button "♡" [ref=e2069]
+          - generic [ref=e2070]:
+            - heading "BBC Proms" [level=3] [ref=e2071]
+            - text: 1947 · ⭐ 7.7
+        - article [ref=e2072] [cursor=pointer]:
+          - img "Lucky" [ref=e2073]
+          - button "♡" [ref=e2074]
+          - generic [ref=e2075]:
+            - heading "Lucky" [level=3] [ref=e2076]
+            - text: 2026 · ⭐ 7.4
+        - article [ref=e2077] [cursor=pointer]:
+          - 'img "All Elite Wrestling: Dynamite" [ref=e2078]'
+          - button "♡" [ref=e2079]
+          - generic [ref=e2080]:
+            - 'heading "All Elite Wrestling: Dynamite" [level=3] [ref=e2081]'
+            - text: 2019 · ⭐ 8.0
+    - generic [ref=e2082]:
+      - heading "Drama" [level=2] [ref=e2083]
+      - generic [ref=e2084]:
+        - article [ref=e2085] [cursor=pointer]:
+          - img "La casa del dragón" [ref=e2086]
+          - button "♡" [ref=e2087]
+          - generic [ref=e2088]:
+            - heading "La casa del dragón" [level=3] [ref=e2089]
+            - text: 2022 · ⭐ 8.4
+        - article [ref=e2090] [cursor=pointer]:
+          - img "Como si fuera ayer" [ref=e2091]
+          - button "♡" [ref=e2092]
+          - generic [ref=e2093]:
+            - heading "Como si fuera ayer" [level=3] [ref=e2094]
+            - text: 2017 · ⭐ 5.5
+        - article [ref=e2095] [cursor=pointer]:
+          - 'img "Operaciones Especiales: Lioness" [ref=e2096]'
+          - button "♡" [ref=e2097]
+          - generic [ref=e2098]:
+            - 'heading "Operaciones Especiales: Lioness" [level=3] [ref=e2099]'
+            - text: 2023 · ⭐ 8.0
+        - article [ref=e2100] [cursor=pointer]:
+          - img "El mentalista" [ref=e2101]
+          - button "♡" [ref=e2102]
+          - generic [ref=e2103]:
+            - heading "El mentalista" [level=3] [ref=e2104]
+            - text: 2008 · ⭐ 8.4
+        - article [ref=e2105] [cursor=pointer]:
+          - 'img "Ley y orden: Unidad de Víctimas Especiales" [ref=e2106]'
+          - button "♡" [ref=e2107]
+          - generic [ref=e2108]:
+            - 'heading "Ley y orden: Unidad de Víctimas Especiales" [level=3] [ref=e2109]'
+            - text: 1999 · ⭐ 8.0
+        - article [ref=e2110] [cursor=pointer]:
+          - img "Anatomía de Grey" [ref=e2111]
+          - button "♡" [ref=e2112]
+          - generic [ref=e2113]:
+            - heading "Anatomía de Grey" [level=3] [ref=e2114]
+            - text: 2005 · ⭐ 8.2
+        - article [ref=e2115] [cursor=pointer]:
+          - img "The Rookie" [ref=e2116]
+          - button "♡" [ref=e2117]
+          - generic [ref=e2118]:
+            - heading "The Rookie" [level=3] [ref=e2119]
+            - text: 2018 · ⭐ 8.5
+        - article [ref=e2120] [cursor=pointer]:
+          - img "Acaramelados" [ref=e2121]
+          - button "♡" [ref=e2122]
+          - generic [ref=e2123]:
+            - heading "Acaramelados" [level=3] [ref=e2124]
+            - text: 2026 · ⭐ 7.8
+        - article [ref=e2125] [cursor=pointer]:
+          - img "Silo" [ref=e2126]
+          - button "♡" [ref=e2127]
+          - generic [ref=e2128]:
+            - heading "Silo" [level=3] [ref=e2129]
+            - text: 2023 · ⭐ 8.2
+        - article [ref=e2130] [cursor=pointer]:
+          - img "Ley y orden" [ref=e2131]
+          - button "♡" [ref=e2132]
+          - generic [ref=e2133]:
+            - heading "Ley y orden" [level=3] [ref=e2134]
+            - text: 1990 · ⭐ 7.3
+        - article [ref=e2135] [cursor=pointer]:
+          - 'img "Navy: Investigación criminal" [ref=e2136]'
+          - button "♡" [ref=e2137]
+          - generic [ref=e2138]:
+            - 'heading "Navy: Investigación criminal" [level=3] [ref=e2139]'
+            - text: 2003 · ⭐ 7.6
+        - article [ref=e2140] [cursor=pointer]:
+          - img "Sobrenatural" [ref=e2141]
+          - button "♡" [ref=e2142]
+          - generic [ref=e2143]:
+            - heading "Sobrenatural" [level=3] [ref=e2144]
+            - text: 2005 · ⭐ 8.3
+        - article [ref=e2145] [cursor=pointer]:
+          - img "From" [ref=e2146]
+          - button "♡" [ref=e2147]
+          - generic [ref=e2148]:
+            - heading "From" [level=3] [ref=e2149]
+            - text: 2022 · ⭐ 8.5
+        - article [ref=e2150] [cursor=pointer]:
+          - img "Reacher" [ref=e2151]
+          - button "♡" [ref=e2152]
+          - generic [ref=e2153]:
+            - heading "Reacher" [level=3] [ref=e2154]
+            - text: 2022 · ⭐ 8.1
+        - article [ref=e2155] [cursor=pointer]:
+          - img "Juego de tronos" [ref=e2156]
+          - button "♡" [ref=e2157]
+          - generic [ref=e2158]:
+            - heading "Juego de tronos" [level=3] [ref=e2159]
+            - text: 2011 · ⭐ 8.5
+        - article [ref=e2160] [cursor=pointer]:
+          - img "Breaking Bad" [ref=e2161]
+          - button "♡" [ref=e2162]
+          - generic [ref=e2163]:
+            - heading "Breaking Bad" [level=3] [ref=e2164]
+            - text: 2008 · ⭐ 8.9
+        - article [ref=e2165] [cursor=pointer]:
+          - img "Mentes criminales" [ref=e2166]
+          - button "♡" [ref=e2167]
+          - generic [ref=e2168]:
+            - heading "Mentes criminales" [level=3] [ref=e2169]
+            - text: 2005 · ⭐ 8.3
+        - article [ref=e2170] [cursor=pointer]:
+          - img "House" [ref=e2171]
+          - button "♡" [ref=e2172]
+          - generic [ref=e2173]:
+            - heading "House" [level=3] [ref=e2174]
+            - text: 2004 · ⭐ 8.6
+        - article [ref=e2175] [cursor=pointer]:
+          - 'img "CSI: Las Vegas" [ref=e2176]'
+          - button "♡" [ref=e2177]
+          - generic [ref=e2178]:
+            - 'heading "CSI: Las Vegas" [level=3] [ref=e2179]'
+            - text: 2000 · ⭐ 7.6
+        - article [ref=e2180] [cursor=pointer]:
+          - img "Isidingo" [ref=e2181]
+          - button "♡" [ref=e2182]
+          - generic [ref=e2183]:
+            - heading "Isidingo" [level=3] [ref=e2184]
+            - text: 1998 · ⭐ 5.3
+    - generic [ref=e2185]:
+      - heading "Comedia" [level=2] [ref=e2186]
+      - generic [ref=e2187]:
+        - article [ref=e2188] [cursor=pointer]:
+          - img "The Rookie" [ref=e2189]
+          - button "♡" [ref=e2190]
+          - generic [ref=e2191]:
+            - heading "The Rookie" [level=3] [ref=e2192]
+            - text: 2018 · ⭐ 8.5
+        - article [ref=e2193] [cursor=pointer]:
+          - img "Acaramelados" [ref=e2194]
+          - button "♡" [ref=e2195]
+          - generic [ref=e2196]:
+            - heading "Acaramelados" [level=3] [ref=e2197]
+            - text: 2026 · ⭐ 7.8
+        - article [ref=e2198] [cursor=pointer]:
+          - img "Los Simpson" [ref=e2199]
+          - button "♡" [ref=e2200]
+          - generic [ref=e2201]:
+            - heading "Los Simpson" [level=3] [ref=e2202]
+            - text: 1989 · ⭐ 8.0
+        - article [ref=e2203] [cursor=pointer]:
+          - img "Rick y Morty" [ref=e2204]
+          - button "♡" [ref=e2205]
+          - generic [ref=e2206]:
+            - heading "Rick y Morty" [level=3] [ref=e2207]
+            - text: 2013 · ⭐ 8.7
+        - article [ref=e2208] [cursor=pointer]:
+          - img "Watch What Happens Live with Andy Cohen" [ref=e2209]
+          - button "♡" [ref=e2210]
+          - generic [ref=e2211]:
+            - heading "Watch What Happens Live with Andy Cohen" [level=3] [ref=e2212]
+            - text: 2009 · ⭐ 5.0
+        - article [ref=e2213] [cursor=pointer]:
+          - img "The Tonight Show Starring Jimmy Fallon" [ref=e2214]
+          - button "♡" [ref=e2215]
+          - generic [ref=e2216]:
+            - heading "The Tonight Show Starring Jimmy Fallon" [level=3] [ref=e2217]
+            - text: 2014 · ⭐ 5.8
+        - article [ref=e2218] [cursor=pointer]:
+          - img "Padre de familia" [ref=e2219]
+          - button "♡" [ref=e2220]
+          - generic [ref=e2221]:
+            - heading "Padre de familia" [level=3] [ref=e2222]
+            - text: 1999 · ⭐ 7.4
+        - article [ref=e2223] [cursor=pointer]:
+          - img "The Late Show with Stephen Colbert" [ref=e2224]
+          - button "♡" [ref=e2225]
+          - generic [ref=e2226]:
+            - heading "The Late Show with Stephen Colbert" [level=3] [ref=e2227]
+            - text: 2015 · ⭐ 6.1
+        - article [ref=e2228] [cursor=pointer]:
+          - img "The Daily Show" [ref=e2229]
+          - button "♡" [ref=e2230]
+          - generic [ref=e2231]:
+            - heading "The Daily Show" [level=3] [ref=e2232]
+            - text: 1996 · ⭐ 6.4
+        - article [ref=e2233] [cursor=pointer]:
+          - img "Shameless" [ref=e2234]
+          - button "♡" [ref=e2235]
+          - generic [ref=e2236]:
+            - heading "Shameless" [level=3] [ref=e2237]
+            - text: 2011 · ⭐ 8.2
+        - article [ref=e2238] [cursor=pointer]:
+          - img "NSFW Show" [ref=e2239]
+          - button "♡" [ref=e2240]
+          - generic [ref=e2241]:
+            - heading "NSFW Show" [level=3] [ref=e2242]
+            - text: 2009 · ⭐ 0.0
+        - article [ref=e2243] [cursor=pointer]:
+          - img "Ted Lasso" [ref=e2244]
+          - button "♡" [ref=e2245]
+          - generic [ref=e2246]:
+            - heading "Ted Lasso" [level=3] [ref=e2247]
+            - text: 2020 · ⭐ 8.3
+        - article [ref=e2248] [cursor=pointer]:
+          - img "Late Night with Seth Meyers" [ref=e2249]
+          - button "♡" [ref=e2250]
+          - generic [ref=e2251]:
+            - heading "Late Night with Seth Meyers" [level=3] [ref=e2252]
+            - text: 2014 · ⭐ 5.1
+        - article [ref=e2253] [cursor=pointer]:
+          - img "Friends" [ref=e2254]
+          - button "♡" [ref=e2255]
+          - generic [ref=e2256]:
+            - heading "Friends" [level=3] [ref=e2257]
+            - text: 1994 · ⭐ 8.4
+        - article [ref=e2258] [cursor=pointer]:
+          - img "제발 조용히 좀 해!" [ref=e2259]
+          - button "♡" [ref=e2260]
+          - generic [ref=e2261]:
+            - heading "제발 조용히 좀 해!" [level=3] [ref=e2262]
+            - text: 2025 · ⭐ 7.6
+        - article [ref=e2263] [cursor=pointer]:
+          - img "脱口秀和Ta的朋友们" [ref=e2264]
+          - button "♡" [ref=e2265]
+          - generic [ref=e2266]:
+            - heading "脱口秀和Ta的朋友们" [level=3] [ref=e2267]
+            - text: 2024 · ⭐ 5.8
+        - article [ref=e2268] [cursor=pointer]:
+          - img "Re-Main" [ref=e2269]
+          - button "♡" [ref=e2270]
+          - generic [ref=e2271]:
+            - heading "Re-Main" [level=3] [ref=e2272]
+            - text: 2021 · ⭐ 6.8
+        - article [ref=e2273] [cursor=pointer]:
+          - img "Padre made in USA" [ref=e2274]
+          - button "♡" [ref=e2275]
+          - generic [ref=e2276]:
+            - heading "Padre made in USA" [level=3] [ref=e2277]
+            - text: 2005 · ⭐ 7.0
+        - article [ref=e2278] [cursor=pointer]:
+          - img "Modern Family" [ref=e2279]
+          - button "♡" [ref=e2280]
+          - generic [ref=e2281]:
+            - heading "Modern Family" [level=3] [ref=e2282]
+            - text: 2009 · ⭐ 7.9
+        - article [ref=e2283] [cursor=pointer]:
+          - img "Historias corrientes" [ref=e2284]
+          - button "♡" [ref=e2285]
+          - generic [ref=e2286]:
+            - heading "Historias corrientes" [level=3] [ref=e2287]
+            - text: 2010 · ⭐ 8.6
+    - generic [ref=e2288]:
+      - heading "Acción y aventura" [level=2] [ref=e2289]
+      - generic [ref=e2290]:
+        - article [ref=e2291] [cursor=pointer]:
+          - img "La casa del dragón" [ref=e2292]
+          - button "♡" [ref=e2293]
+          - generic [ref=e2294]:
+            - heading "La casa del dragón" [level=3] [ref=e2295]
+            - text: 2022 · ⭐ 8.4
+        - article [ref=e2296] [cursor=pointer]:
+          - 'img "Prodigiosa: Las aventuras de Ladybug" [ref=e2297]'
+          - button "♡" [ref=e2298]
+          - generic [ref=e2299]:
+            - 'heading "Prodigiosa: Las aventuras de Ladybug" [level=3] [ref=e2300]'
+            - text: 2015 · ⭐ 8.1
+        - article [ref=e2301] [cursor=pointer]:
+          - 'img "Navy: Investigación criminal" [ref=e2302]'
+          - button "♡" [ref=e2303]
+          - generic [ref=e2304]:
+            - 'heading "Navy: Investigación criminal" [level=3] [ref=e2305]'
+            - text: 2003 · ⭐ 7.6
+        - article [ref=e2306] [cursor=pointer]:
+          - img "Rick y Morty" [ref=e2307]
+          - button "♡" [ref=e2308]
+          - generic [ref=e2309]:
+            - heading "Rick y Morty" [level=3] [ref=e2310]
+            - text: 2013 · ⭐ 8.7
+        - article [ref=e2311] [cursor=pointer]:
+          - img "Reacher" [ref=e2312]
+          - button "♡" [ref=e2313]
+          - generic [ref=e2314]:
+            - heading "Reacher" [level=3] [ref=e2315]
+            - text: 2022 · ⭐ 8.1
+        - article [ref=e2316] [cursor=pointer]:
+          - img "Juego de tronos" [ref=e2317]
+          - button "♡" [ref=e2318]
+          - generic [ref=e2319]:
+            - heading "Juego de tronos" [level=3] [ref=e2320]
+            - text: 2011 · ⭐ 8.5
+        - article [ref=e2321] [cursor=pointer]:
+          - img "Mushoku Tensei Jobless Reincarnation" [ref=e2322]
+          - button "♡" [ref=e2323]
+          - generic [ref=e2324]:
+            - heading "Mushoku Tensei Jobless Reincarnation" [level=3] [ref=e2325]
+            - text: 2021 · ⭐ 8.5
+        - article [ref=e2326] [cursor=pointer]:
+          - img "The Walking Dead" [ref=e2327]
+          - button "♡" [ref=e2328]
+          - generic [ref=e2329]:
+            - heading "The Walking Dead" [level=3] [ref=e2330]
+            - text: 2010 · ⭐ 8.1
+        - article [ref=e2331] [cursor=pointer]:
+          - img "Stranger Things" [ref=e2332]
+          - button "♡" [ref=e2333]
+          - generic [ref=e2334]:
+            - heading "Stranger Things" [level=3] [ref=e2335]
+            - text: 2016 · ⭐ 8.6
+        - article [ref=e2336] [cursor=pointer]:
+          - img "The Boys" [ref=e2337]
+          - button "♡" [ref=e2338]
+          - generic [ref=e2339]:
+            - heading "The Boys" [level=3] [ref=e2340]
+            - text: 2019 · ⭐ 8.4
+        - article [ref=e2341] [cursor=pointer]:
+          - img "Smallville" [ref=e2342]
+          - button "♡" [ref=e2343]
+          - generic [ref=e2344]:
+            - heading "Smallville" [level=3] [ref=e2345]
+            - text: 2001 · ⭐ 8.2
+        - article [ref=e2346] [cursor=pointer]:
+          - img "Doctor Who" [ref=e2347]
+          - button "♡" [ref=e2348]
+          - generic [ref=e2349]:
+            - heading "Doctor Who" [level=3] [ref=e2350]
+            - text: 2005 · ⭐ 7.6
+        - article [ref=e2351] [cursor=pointer]:
+          - img "9-1-1" [ref=e2352]
+          - button "♡" [ref=e2353]
+          - generic [ref=e2354]:
+            - heading "9-1-1" [level=3] [ref=e2355]
+            - text: 2018 · ⭐ 8.2
+        - article [ref=e2356] [cursor=pointer]:
+          - img "Bleach" [ref=e2357]
+          - button "♡" [ref=e2358]
+          - generic [ref=e2359]:
+            - heading "Bleach" [level=3] [ref=e2360]
+            - text: 2004 · ⭐ 8.4
+        - article [ref=e2361] [cursor=pointer]:
+          - img "Vikingos" [ref=e2362]
+          - button "♡" [ref=e2363]
+          - generic [ref=e2364]:
+            - heading "Vikingos" [level=3] [ref=e2365]
+            - text: 2013 · ⭐ 8.1
+        - article [ref=e2366] [cursor=pointer]:
+          - img "Hawái 5.0" [ref=e2367]
+          - button "♡" [ref=e2368]
+          - generic [ref=e2369]:
+            - heading "Hawái 5.0" [level=3] [ref=e2370]
+            - text: 2010 · ⭐ 7.7
+        - article [ref=e2371] [cursor=pointer]:
+          - img "Historias corrientes" [ref=e2372]
+          - button "♡" [ref=e2373]
+          - generic [ref=e2374]:
+            - heading "Historias corrientes" [level=3] [ref=e2375]
+            - text: 2010 · ⭐ 8.6
+        - article [ref=e2376] [cursor=pointer]:
+          - img "Renegade Immortal" [ref=e2377]
+          - button "♡" [ref=e2378]
+          - generic [ref=e2379]:
+            - heading "Renegade Immortal" [level=3] [ref=e2380]
+            - text: 2023 · ⭐ 8.2
+        - article [ref=e2381] [cursor=pointer]:
+          - img "Kamen Rider" [ref=e2382]
+          - button "♡" [ref=e2383]
+          - generic [ref=e2384]:
+            - heading "Kamen Rider" [level=3] [ref=e2385]
+            - text: 1971 · ⭐ 6.4
+        - article [ref=e2386] [cursor=pointer]:
+          - img "Prison Break" [ref=e2387]
+          - button "♡" [ref=e2388]
+          - generic [ref=e2389]:
+            - heading "Prison Break" [level=3] [ref=e2390]
+            - text: 2005 · ⭐ 8.1
+    - generic [ref=e2391]:
+      - heading "Crimen" [level=2] [ref=e2392]
+      - generic [ref=e2393]:
+        - article [ref=e2394] [cursor=pointer]:
+          - img "El mentalista" [ref=e2395]
+          - button "♡" [ref=e2396]
+          - generic [ref=e2397]:
+            - heading "El mentalista" [level=3] [ref=e2398]
+            - text: 2008 · ⭐ 8.4
+        - article [ref=e2399] [cursor=pointer]:
+          - 'img "Ley y orden: Unidad de Víctimas Especiales" [ref=e2400]'
+          - button "♡" [ref=e2401]
+          - generic [ref=e2402]:
+            - 'heading "Ley y orden: Unidad de Víctimas Especiales" [level=3] [ref=e2403]'
+            - text: 1999 · ⭐ 8.0
+        - article [ref=e2404] [cursor=pointer]:
+          - img "The Rookie" [ref=e2405]
+          - button "♡" [ref=e2406]
+          - generic [ref=e2407]:
+            - heading "The Rookie" [level=3] [ref=e2408]
+            - text: 2018 · ⭐ 8.5
+        - article [ref=e2409] [cursor=pointer]:
+          - img "Ley y orden" [ref=e2410]
+          - button "♡" [ref=e2411]
+          - generic [ref=e2412]:
+            - heading "Ley y orden" [level=3] [ref=e2413]
+            - text: 1990 · ⭐ 7.3
+        - article [ref=e2414] [cursor=pointer]:
+          - 'img "Navy: Investigación criminal" [ref=e2415]'
+          - button "♡" [ref=e2416]
+          - generic [ref=e2417]:
+            - 'heading "Navy: Investigación criminal" [level=3] [ref=e2418]'
+            - text: 2003 · ⭐ 7.6
+        - article [ref=e2419] [cursor=pointer]:
+          - img "Reacher" [ref=e2420]
+          - button "♡" [ref=e2421]
+          - generic [ref=e2422]:
+            - heading "Reacher" [level=3] [ref=e2423]
+            - text: 2022 · ⭐ 8.1
+        - article [ref=e2424] [cursor=pointer]:
+          - img "Mentes criminales" [ref=e2425]
+          - button "♡" [ref=e2426]
+          - generic [ref=e2427]:
+            - heading "Mentes criminales" [level=3] [ref=e2428]
+            - text: 2005 · ⭐ 8.3
+        - article [ref=e2429] [cursor=pointer]:
+          - 'img "CSI: Las Vegas" [ref=e2430]'
+          - button "♡" [ref=e2431]
+          - generic [ref=e2432]:
+            - 'heading "CSI: Las Vegas" [level=3] [ref=e2433]'
+            - text: 2000 · ⭐ 7.6
+        - article [ref=e2434] [cursor=pointer]:
+          - img "Breaking Bad" [ref=e2435]
+          - button "♡" [ref=e2436]
+          - generic [ref=e2437]:
+            - heading "Breaking Bad" [level=3] [ref=e2438]
+            - text: 2008 · ⭐ 8.9
+        - article [ref=e2439] [cursor=pointer]:
+          - img "Los asesinatos de Midsomer" [ref=e2440]
+          - button "♡" [ref=e2441]
+          - generic [ref=e2442]:
+            - heading "Los asesinatos de Midsomer" [level=3] [ref=e2443]
+            - text: 1997 · ⭐ 7.5
+        - article [ref=e2444] [cursor=pointer]:
+          - img "Bones" [ref=e2445]
+          - button "♡" [ref=e2446]
+          - generic [ref=e2447]:
+            - heading "Bones" [level=3] [ref=e2448]
+            - text: 2005 · ⭐ 8.2
+        - article [ref=e2449] [cursor=pointer]:
+          - img "Dexter" [ref=e2450]
+          - button "♡" [ref=e2451]
+          - generic [ref=e2452]:
+            - heading "Dexter" [level=3] [ref=e2453]
+            - text: 2006 · ⭐ 8.2
+        - article [ref=e2454] [cursor=pointer]:
+          - img "Hawái 5.0" [ref=e2455]
+          - button "♡" [ref=e2456]
+          - generic [ref=e2457]:
+            - heading "Hawái 5.0" [level=3] [ref=e2458]
+            - text: 2010 · ⭐ 7.7
+        - article [ref=e2459] [cursor=pointer]:
+          - img "The Blacklist" [ref=e2460]
+          - button "♡" [ref=e2461]
+          - generic [ref=e2462]:
+            - heading "The Blacklist" [level=3] [ref=e2463]
+            - text: 2013 · ⭐ 7.6
+        - article [ref=e2464] [cursor=pointer]:
+          - img "Chicago P.D." [ref=e2465]
+          - button "♡" [ref=e2466]
+          - generic [ref=e2467]:
+            - heading "Chicago P.D." [level=3] [ref=e2468]
+            - text: 2014 · ⭐ 8.4
+        - article [ref=e2469] [cursor=pointer]:
+          - img "9-1-1" [ref=e2470]
+          - button "♡" [ref=e2471]
+          - generic [ref=e2472]:
+            - heading "9-1-1" [level=3] [ref=e2473]
+            - text: 2018 · ⭐ 8.2
+        - article [ref=e2474] [cursor=pointer]:
+          - img "Prison Break" [ref=e2475]
+          - button "♡" [ref=e2476]
+          - generic [ref=e2477]:
+            - heading "Prison Break" [level=3] [ref=e2478]
+            - text: 2005 · ⭐ 8.1
+        - article [ref=e2479] [cursor=pointer]:
+          - img "Los Soprano" [ref=e2480]
+          - button "♡" [ref=e2481]
+          - generic [ref=e2482]:
+            - heading "Los Soprano" [level=3] [ref=e2483]
+            - text: 1999 · ⭐ 8.7
+        - article [ref=e2484] [cursor=pointer]:
+          - 'img "S.W.A.T.: Los hombres de Harrelson" [ref=e2485]'
+          - button "♡" [ref=e2486]
+          - generic [ref=e2487]:
+            - 'heading "S.W.A.T.: Los hombres de Harrelson" [level=3] [ref=e2488]'
+            - text: 2017 · ⭐ 8.0
+        - article [ref=e2489] [cursor=pointer]:
+          - img "Lucky" [ref=e2490]
+          - button "♡" [ref=e2491]
+          - generic [ref=e2492]:
+            - heading "Lucky" [level=3] [ref=e2493]
+            - text: 2026 · ⭐ 7.4
+    - generic [ref=e2494]:
+      - heading "Misterio" [level=2] [ref=e2495]
+      - generic [ref=e2496]:
+        - article [ref=e2497] [cursor=pointer]:
+          - img "El mentalista" [ref=e2498]
+          - button "♡" [ref=e2499]
+          - generic [ref=e2500]:
+            - heading "El mentalista" [level=3] [ref=e2501]
+            - text: 2008 · ⭐ 8.4
+        - article [ref=e2502] [cursor=pointer]:
+          - 'img "Ley y orden: Unidad de Víctimas Especiales" [ref=e2503]'
+          - button "♡" [ref=e2504]
+          - generic [ref=e2505]:
+            - 'heading "Ley y orden: Unidad de Víctimas Especiales" [level=3] [ref=e2506]'
+            - text: 1999 · ⭐ 8.0
+        - article [ref=e2507] [cursor=pointer]:
+          - img "Sobrenatural" [ref=e2508]
+          - button "♡" [ref=e2509]
+          - generic [ref=e2510]:
+            - heading "Sobrenatural" [level=3] [ref=e2511]
+            - text: 2005 · ⭐ 8.3
+        - article [ref=e2512] [cursor=pointer]:
+          - img "From" [ref=e2513]
+          - button "♡" [ref=e2514]
+          - generic [ref=e2515]:
+            - heading "From" [level=3] [ref=e2516]
+            - text: 2022 · ⭐ 8.5
+        - article [ref=e2517] [cursor=pointer]:
+          - img "Mentes criminales" [ref=e2518]
+          - button "♡" [ref=e2519]
+          - generic [ref=e2520]:
+            - heading "Mentes criminales" [level=3] [ref=e2521]
+            - text: 2005 · ⭐ 8.3
+        - article [ref=e2522] [cursor=pointer]:
+          - 'img "CSI: Las Vegas" [ref=e2523]'
+          - button "♡" [ref=e2524]
+          - generic [ref=e2525]:
+            - 'heading "CSI: Las Vegas" [level=3] [ref=e2526]'
+            - text: 2000 · ⭐ 7.6
+        - article [ref=e2527] [cursor=pointer]:
+          - img "Los asesinatos de Midsomer" [ref=e2528]
+          - button "♡" [ref=e2529]
+          - generic [ref=e2530]:
+            - heading "Los asesinatos de Midsomer" [level=3] [ref=e2531]
+            - text: 1997 · ⭐ 7.5
+        - article [ref=e2532] [cursor=pointer]:
+          - img "Stranger Things" [ref=e2533]
+          - button "♡" [ref=e2534]
+          - generic [ref=e2535]:
+            - heading "Stranger Things" [level=3] [ref=e2536]
+            - text: 2016 · ⭐ 8.6
+        - article [ref=e2537] [cursor=pointer]:
+          - img "Dexter" [ref=e2538]
+          - button "♡" [ref=e2539]
+          - generic [ref=e2540]:
+            - heading "Dexter" [level=3] [ref=e2541]
+            - text: 2006 · ⭐ 8.2
+        - article [ref=e2542] [cursor=pointer]:
+          - img "The Blacklist" [ref=e2543]
+          - button "♡" [ref=e2544]
+          - generic [ref=e2545]:
+            - heading "The Blacklist" [level=3] [ref=e2546]
+            - text: 2013 · ⭐ 7.6
+        - article [ref=e2547] [cursor=pointer]:
+          - img "Perdidos" [ref=e2548]
+          - button "♡" [ref=e2549]
+          - generic [ref=e2550]:
+            - heading "Perdidos" [level=3] [ref=e2551]
+            - text: 2004 · ⭐ 8.0
+        - article [ref=e2552] [cursor=pointer]:
+          - img "Mujeres desesperadas" [ref=e2553]
+          - button "♡" [ref=e2554]
+          - generic [ref=e2555]:
+            - heading "Mujeres desesperadas" [level=3] [ref=e2556]
+            - text: 2004 · ⭐ 7.9
+        - article [ref=e2557] [cursor=pointer]:
+          - img "Sterling Point" [ref=e2558]
+          - button "♡" [ref=e2559]
+          - generic [ref=e2560]:
+            - heading "Sterling Point" [level=3] [ref=e2561]
+            - text: 2026 · ⭐ 7.7
+        - article [ref=e2562] [cursor=pointer]:
+          - 'img "CSI: Miami" [ref=e2563]'
+          - button "♡" [ref=e2564]
+          - generic [ref=e2565]:
+            - 'heading "CSI: Miami" [level=3] [ref=e2566]'
+            - text: 2002 · ⭐ 7.7
+        - article [ref=e2567] [cursor=pointer]:
+          - img "American Horror Story" [ref=e2568]
+          - button "♡" [ref=e2569]
+          - generic [ref=e2570]:
+            - heading "American Horror Story" [level=3] [ref=e2571]
+            - text: 2011 · ⭐ 8.1
+        - article [ref=e2572] [cursor=pointer]:
+          - img "Re:Zero - Empezar de cero en un mundo diferente" [ref=e2573]
+          - button "♡" [ref=e2574]
+          - generic [ref=e2575]:
+            - heading "Re:Zero - Empezar de cero en un mundo diferente" [level=3] [ref=e2576]
+            - text: 2016 · ⭐ 8.0
+        - article [ref=e2577] [cursor=pointer]:
+          - img "Detective Conan" [ref=e2578]
+          - button "♡" [ref=e2579]
+          - generic [ref=e2580]:
+            - heading "Detective Conan" [level=3] [ref=e2581]
+            - text: 1996 · ⭐ 8.0
+        - article [ref=e2582] [cursor=pointer]:
+          - img "The Shards" [ref=e2583]
+          - button "♡" [ref=e2584]
+          - generic [ref=e2585]:
+            - heading "The Shards" [level=3] [ref=e2586]
+            - text: 2026 · ⭐ 8.1
+        - article [ref=e2587] [cursor=pointer]:
+          - img "Expediente X" [ref=e2588]
+          - button "♡" [ref=e2589]
+          - generic [ref=e2590]:
+            - heading "Expediente X" [level=3] [ref=e2591]
+            - text: 1993 · ⭐ 8.4
+        - article [ref=e2592] [cursor=pointer]:
+          - img "High Potential" [ref=e2593]
+          - button "♡" [ref=e2594]
+          - generic [ref=e2595]:
+            - heading "High Potential" [level=3] [ref=e2596]
+            - text: 2024 · ⭐ 8.2
+    - generic [ref=e2597]:
+      - heading "Ciencia ficción y fantasía" [level=2] [ref=e2598]
+      - generic [ref=e2599]:
+        - article [ref=e2600] [cursor=pointer]:
+          - img "La casa del dragón" [ref=e2601]
+          - button "♡" [ref=e2602]
+          - generic [ref=e2603]:
+            - heading "La casa del dragón" [level=3] [ref=e2604]
+            - text: 2022 · ⭐ 8.4
+        - article [ref=e2605] [cursor=pointer]:
+          - img "Silo" [ref=e2606]
+          - button "♡" [ref=e2607]
+          - generic [ref=e2608]:
+            - heading "Silo" [level=3] [ref=e2609]
+            - text: 2023 · ⭐ 8.2
+        - article [ref=e2610] [cursor=pointer]:
+          - img "Sobrenatural" [ref=e2611]
+          - button "♡" [ref=e2612]
+          - generic [ref=e2613]:
+            - heading "Sobrenatural" [level=3] [ref=e2614]
+            - text: 2005 · ⭐ 8.3
+        - article [ref=e2615] [cursor=pointer]:
+          - img "Rick y Morty" [ref=e2616]
+          - button "♡" [ref=e2617]
+          - generic [ref=e2618]:
+            - heading "Rick y Morty" [level=3] [ref=e2619]
+            - text: 2013 · ⭐ 8.7
+        - article [ref=e2620] [cursor=pointer]:
+          - img "From" [ref=e2621]
+          - button "♡" [ref=e2622]
+          - generic [ref=e2623]:
+            - heading "From" [level=3] [ref=e2624]
+            - text: 2022 · ⭐ 8.5
+        - article [ref=e2625] [cursor=pointer]:
+          - img "Juego de tronos" [ref=e2626]
+          - button "♡" [ref=e2627]
+          - generic [ref=e2628]:
+            - heading "Juego de tronos" [level=3] [ref=e2629]
+            - text: 2011 · ⭐ 8.5
+        - article [ref=e2630] [cursor=pointer]:
+          - img "Mushoku Tensei Jobless Reincarnation" [ref=e2631]
+          - button "♡" [ref=e2632]
+          - generic [ref=e2633]:
+            - heading "Mushoku Tensei Jobless Reincarnation" [level=3] [ref=e2634]
+            - text: 2021 · ⭐ 8.5
+        - article [ref=e2635] [cursor=pointer]:
+          - img "The Boys" [ref=e2636]
+          - button "♡" [ref=e2637]
+          - generic [ref=e2638]:
+            - heading "The Boys" [level=3] [ref=e2639]
+            - text: 2019 · ⭐ 8.4
+        - article [ref=e2640] [cursor=pointer]:
+          - img "The Walking Dead" [ref=e2641]
+          - button "♡" [ref=e2642]
+          - generic [ref=e2643]:
+            - heading "The Walking Dead" [level=3] [ref=e2644]
+            - text: 2010 · ⭐ 8.1
+        - article [ref=e2645] [cursor=pointer]:
+          - img "Stranger Things" [ref=e2646]
+          - button "♡" [ref=e2647]
+          - generic [ref=e2648]:
+            - heading "Stranger Things" [level=3] [ref=e2649]
+            - text: 2016 · ⭐ 8.6
+        - article [ref=e2650] [cursor=pointer]:
+          - img "Smallville" [ref=e2651]
+          - button "♡" [ref=e2652]
+          - generic [ref=e2653]:
+            - heading "Smallville" [level=3] [ref=e2654]
+            - text: 2001 · ⭐ 8.2
+        - article [ref=e2655] [cursor=pointer]:
+          - img "Kamen Rider" [ref=e2656]
+          - button "♡" [ref=e2657]
+          - generic [ref=e2658]:
+            - heading "Kamen Rider" [level=3] [ref=e2659]
+            - text: 1971 · ⭐ 6.4
+        - article [ref=e2660] [cursor=pointer]:
+          - img "Historias corrientes" [ref=e2661]
+          - button "♡" [ref=e2662]
+          - generic [ref=e2663]:
+            - heading "Historias corrientes" [level=3] [ref=e2664]
+            - text: 2010 · ⭐ 8.6
+        - article [ref=e2665] [cursor=pointer]:
+          - img "Doctor Who" [ref=e2666]
+          - button "♡" [ref=e2667]
+          - generic [ref=e2668]:
+            - heading "Doctor Who" [level=3] [ref=e2669]
+            - text: 2005 · ⭐ 7.6
+        - article [ref=e2670] [cursor=pointer]:
+          - img "Doraemon, el gato cósmico" [ref=e2671]
+          - button "♡" [ref=e2672]
+          - generic [ref=e2673]:
+            - heading "Doraemon, el gato cósmico" [level=3] [ref=e2674]
+            - text: 2005 · ⭐ 8.1
+        - article [ref=e2675] [cursor=pointer]:
+          - img "Bleach" [ref=e2676]
+          - button "♡" [ref=e2677]
+          - generic [ref=e2678]:
+            - heading "Bleach" [level=3] [ref=e2679]
+            - text: 2004 · ⭐ 8.4
+        - article [ref=e2680] [cursor=pointer]:
+          - img "Futurama" [ref=e2681]
+          - button "♡" [ref=e2682]
+          - generic [ref=e2683]:
+            - heading "Futurama" [level=3] [ref=e2684]
+            - text: 1999 · ⭐ 8.4
+        - article [ref=e2685] [cursor=pointer]:
+          - img "The Flash" [ref=e2686]
+          - button "♡" [ref=e2687]
+          - generic [ref=e2688]:
+            - heading "The Flash" [level=3] [ref=e2689]
+            - text: 2014 · ⭐ 7.8
+        - article [ref=e2690] [cursor=pointer]:
+          - img "Los Jóvenes Titanes en Acción" [ref=e2691]
+          - button "♡" [ref=e2692]
+          - generic [ref=e2693]:
+            - heading "Los Jóvenes Titanes en Acción" [level=3] [ref=e2694]
+            - text: 2013 · ⭐ 6.4
+        - article [ref=e2695] [cursor=pointer]:
+          - img "Crónicas vampíricas" [ref=e2696]
+          - button "♡" [ref=e2697]
+          - generic [ref=e2698]:
+            - heading "Crónicas vampíricas" [level=3] [ref=e2699]
+            - text: 2009 · ⭐ 8.3
+    - generic [ref=e2700]:
+      - heading "Animación" [level=2] [ref=e2701]
+      - generic [ref=e2702]:
+        - article [ref=e2703] [cursor=pointer]:
+          - img "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～" [ref=e2704]
+          - button "♡" [ref=e2705]
+          - generic [ref=e2706]:
+            - heading "しーくれっとみっしょん～潜入捜査官は絶対に負けない！～" [level=3] [ref=e2707]
+            - text: 2023 · ⭐ 6.2
+        - article [ref=e2708] [cursor=pointer]:
+          - 'img "Prodigiosa: Las aventuras de Ladybug" [ref=e2709]'
+          - button "♡" [ref=e2710]
+          - generic [ref=e2711]:
+            - 'heading "Prodigiosa: Las aventuras de Ladybug" [level=3] [ref=e2712]'
+            - text: 2015 · ⭐ 8.1
+        - article [ref=e2713] [cursor=pointer]:
+          - img "Rick y Morty" [ref=e2714]
+          - button "♡" [ref=e2715]
+          - generic [ref=e2716]:
+            - heading "Rick y Morty" [level=3] [ref=e2717]
+            - text: 2013 · ⭐ 8.7
+        - article [ref=e2718] [cursor=pointer]:
+          - img "Los Simpson" [ref=e2719]
+          - button "♡" [ref=e2720]
+          - generic [ref=e2721]:
+            - heading "Los Simpson" [level=3] [ref=e2722]
+            - text: 1989 · ⭐ 8.0
+        - article [ref=e2723] [cursor=pointer]:
+          - img "Padre de familia" [ref=e2724]
+          - button "♡" [ref=e2725]
+          - generic [ref=e2726]:
+            - heading "Padre de familia" [level=3] [ref=e2727]
+            - text: 1999 · ⭐ 7.4
+        - article [ref=e2728] [cursor=pointer]:
+          - img "제발 조용히 좀 해!" [ref=e2729]
+          - button "♡" [ref=e2730]
+          - generic [ref=e2731]:
+            - heading "제발 조용히 좀 해!" [level=3] [ref=e2732]
+            - text: 2025 · ⭐ 7.6
+        - article [ref=e2733] [cursor=pointer]:
+          - img "Mushoku Tensei Jobless Reincarnation" [ref=e2734]
+          - button "♡" [ref=e2735]
+          - generic [ref=e2736]:
+            - heading "Mushoku Tensei Jobless Reincarnation" [level=3] [ref=e2737]
+            - text: 2021 · ⭐ 8.5
+        - article [ref=e2738] [cursor=pointer]:
+          - img "Overflow" [ref=e2739]
+          - button "♡" [ref=e2740]
+          - generic [ref=e2741]:
+            - heading "Overflow" [level=3] [ref=e2742]
+            - text: 2020 · ⭐ 7.5
+        - article [ref=e2743] [cursor=pointer]:
+          - img "Padre made in USA" [ref=e2744]
+          - button "♡" [ref=e2745]
+          - generic [ref=e2746]:
+            - heading "Padre made in USA" [level=3] [ref=e2747]
+            - text: 2005 · ⭐ 7.0
+        - article [ref=e2748] [cursor=pointer]:
+          - img "Re-Main" [ref=e2749]
+          - button "♡" [ref=e2750]
+          - generic [ref=e2751]:
+            - heading "Re-Main" [level=3] [ref=e2752]
+            - text: 2021 · ⭐ 6.8
+        - article [ref=e2753] [cursor=pointer]:
+          - img "Bleach" [ref=e2754]
+          - button "♡" [ref=e2755]
+          - generic [ref=e2756]:
+            - heading "Bleach" [level=3] [ref=e2757]
+            - text: 2004 · ⭐ 8.4
+        - article [ref=e2758] [cursor=pointer]:
+          - img "Caressing the Nipples of My Hibernating Bear" [ref=e2759]
+          - button "♡" [ref=e2760]
+          - generic [ref=e2761]:
+            - heading "Caressing the Nipples of My Hibernating Bear" [level=3] [ref=e2762]
+            - text: 2022 · ⭐ 5.9
+        - article [ref=e2763] [cursor=pointer]:
+          - img "Historias corrientes" [ref=e2764]
+          - button "♡" [ref=e2765]
+          - generic [ref=e2766]:
+            - heading "Historias corrientes" [level=3] [ref=e2767]
+            - text: 2010 · ⭐ 8.6
+        - article [ref=e2768] [cursor=pointer]:
+          - img "Renegade Immortal" [ref=e2769]
+          - button "♡" [ref=e2770]
+          - generic [ref=e2771]:
+            - heading "Renegade Immortal" [level=3] [ref=e2772]
+            - text: 2023 · ⭐ 8.2
+        - article [ref=e2773] [cursor=pointer]:
+          - img "Futurama" [ref=e2774]
+          - button "♡" [ref=e2775]
+          - generic [ref=e2776]:
+            - heading "Futurama" [level=3] [ref=e2777]
+            - text: 1999 · ⭐ 8.4
+        - article [ref=e2778] [cursor=pointer]:
+          - img "Jimihen!! Jimiko wo Kae Chau Jun Isei Kouyuu" [ref=e2779]
+          - button "♡" [ref=e2780]
+          - generic [ref=e2781]:
+            - heading "Jimihen!! Jimiko wo Kae Chau Jun Isei Kouyuu" [level=3] [ref=e2782]
+            - text: 2021 · ⭐ 6.6
+        - article [ref=e2783] [cursor=pointer]:
+          - img "Los Jóvenes Titanes en Acción" [ref=e2784]
+          - button "♡" [ref=e2785]
+          - generic [ref=e2786]:
+            - heading "Los Jóvenes Titanes en Acción" [level=3] [ref=e2787]
+            - text: 2013 · ⭐ 6.4
+        - article [ref=e2788] [cursor=pointer]:
+          - img "Doraemon, el gato cósmico" [ref=e2789]
+          - button "♡" [ref=e2790]
+          - generic [ref=e2791]:
+            - heading "Doraemon, el gato cósmico" [level=3] [ref=e2792]
+            - text: 2005 · ⭐ 8.1
+        - article [ref=e2793] [cursor=pointer]:
+          - img "Bob's Burgers" [ref=e2794]
+          - button "♡" [ref=e2795]
+          - generic [ref=e2796]:
+            - heading "Bob's Burgers" [level=3] [ref=e2797]
+            - text: 2011 · ⭐ 7.8
+        - article [ref=e2798] [cursor=pointer]:
+          - img "Jujutsu Kaisen" [ref=e2799]
+          - button "♡" [ref=e2800]
+          - generic [ref=e2801]:
+            - heading "Jujutsu Kaisen" [level=3] [ref=e2802]
+            - text: 2020 · ⭐ 8.6
