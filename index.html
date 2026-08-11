@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Plistrust</title>
+  <meta name="description" content="Plataforma de películas" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎬</text></svg>" />
+</head>
+<body>
+  <div id="gate" class="gate hidden">
+    <form id="login-form" class="gate-card">
+      <h1>🎬 Plistrust</h1>
+      <p>Introduce la contraseña para entrar</p>
+      <input type="password" id="password-input" placeholder="Contraseña" autocomplete="current-password" required />
+      <p id="login-error" class="error hidden">Contraseña incorrecta</p>
+      <button type="submit">Entrar</button>
+    </form>
+  </div>
+
+  <div id="app" class="hidden">
+    <header class="header">
+      <h1 class="logo">🎬 Plistrust</h1>
+      <form id="search-form" class="search">
+        <input type="search" id="search-input" placeholder="Buscar películas…" />
+      </form>
+      <button id="logout-btn" class="ghost">Salir</button>
+    </header>
+    <main id="main"></main>
+  </div>
+
+  <div id="modal" class="modal hidden">
+    <div class="modal-box">
+      <button id="modal-close" class="modal-close" aria-label="Cerrar">✕</button>
+      <iframe id="player-frame" allowfullscreen allow="autoplay; fullscreen" src="about:blank" title="Reproductor"></iframe>
+    </div>
+  </div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>
