@@ -29,6 +29,9 @@ export async function openPlayer(providerId, type, id, season = 1, episode = 1) 
 
   localStorage.setItem(KEY, providerId)
   const iframe = document.getElementById('player-frame')
+  // Volver a pulsar Play sobre el mismo título tiene que pedir un embed nuevo
+  // (si no, el src no cambia y queda clavado en la página de error del proveedor).
+  if (iframe.src === url) iframe.src = 'about:blank'
   iframe.src = url
   document.getElementById('modal').classList.remove('hidden')
   document.body.classList.add('modal-open')

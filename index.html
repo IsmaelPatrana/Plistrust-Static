@@ -42,7 +42,8 @@
     <div class="modal-box">
       <button id="modal-close" class="modal-close" aria-label="Cerrar">✕</button>
       <p id="player-error" class="player-error hidden"></p>
-      <iframe id="player-frame" allowfullscreen allow="autoplay; fullscreen" referrerpolicy="no-referrer" sandbox="allow-scripts allow-same-origin" src="about:blank" title="Reproductor"></iframe>
+      <!-- UnLimPlay valida el dominio del sitio padre por Referer: "origin" lo envía, "no-referrer" lo oculta y devuelve ERR_DIRECT_ACCESS 403 -->
+      <iframe id="player-frame" allowfullscreen allow="autoplay; fullscreen; encrypted-media; picture-in-picture" referrerpolicy="origin" sandbox="allow-scripts allow-same-origin" src="about:blank" title="Reproductor"></iframe>
     </div>
   </div>
 
